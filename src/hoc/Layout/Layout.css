@@ -1,0 +1,18 @@
+.Content {
+    margin-top: 72px;
+}
+.Root {
+    flex-grow: 1;
+    margin-bottom: 40px;
+}
+  
+.MenuButton {
+    margin-right: 60%;
+}
+
+.Title {
+    flex-grow: 1;
+}
+.Toolbar {
+    align-items: flex-end;
+}
